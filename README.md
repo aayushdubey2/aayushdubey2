@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**aayushdubey2/aayushdubey2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/dubeyaayush/">
+  <img align="left" width="36px" src="https://img.icons8.com/material/50/6a9fb5/linkedin.png" />
+</a>
+<a href="mailto:aayushdubey.2@gmail.com">
+  <img align="left" width="36px" src="https://img.icons8.com/material/50/6a9fb5/gmail.png" />
+</a>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Glad to see you here! 🤩
+
+Hi, my name is Aayush Dubey.
+I build & break thinks on the web.
+I’m a software engineer specializing in building exceptional, high quality websites and web applications. Currently, I’m working as a Full Stack Developer at Kearney✨
+<br />
+
+### More about me...
+- 💻 I’ve worked on Angular, Vue, JavaScript, TypeScript, HTML/CSS, Tailwind Python, Java, Flask, SpringBoot, SQL etc.
+- 🌱 I’m currently learning Azure.
+- 👯 I’m looking for job opportunities in the USA.
+- 💬 Ask me about anything, happy to help! 😄
+<br />
+<br />
