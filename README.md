@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=aayushdubey2)
+
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/dubeyaayush/">
@@ -11,6 +11,8 @@
 <br />
 
 ### Glad to see you here! 🤩
+
+![](https://komarev.com/ghpvc/?username=aayushdubey2)
 
 My name is Aayush Dubey.
 I build & break thinks on the web.
