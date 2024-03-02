@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=aayushdubey2)
 ### Hi there 👋
 
 <a href="https://www.linkedin.com/in/dubeyaayush/">
