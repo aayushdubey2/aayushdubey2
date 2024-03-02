@@ -11,7 +11,7 @@
 
 ### Glad to see you here! 🤩
 
-Hi, my name is Aayush Dubey.
+My name is Aayush Dubey.
 I build & break thinks on the web.
 I’m a software engineer specializing in building exceptional, high quality websites and web applications. Currently, I’m working as a Full Stack Developer at Kearney✨
 <br />
