@@ -1,10 +1,10 @@
 
 ### Hi there 👋
 
-<a href="https://www.linkedin.com/in/dubeyaayush/" target="_blank">
+<a href="https://www.linkedin.com/in/dubeyaayush/">
   <img align="left" width="36px" src="https://img.icons8.com/material/50/6a9fb5/linkedin.png" />
 </a>
-<a href="mailto:aayushdubey.2@gmail.com" target="_blank">
+<a href="mailto:aayushdubey.2@gmail.com">
   <img align="left" width="36px" src="https://img.icons8.com/material/50/6a9fb5/gmail.png" />
 </a>
 
